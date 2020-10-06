@@ -1,0 +1,2 @@
+County_Rural_Lookup.xlsx <https://www.census.gov/newsroom/press-releases/2016/cb16-210.html>
+exp_v_obser_2020.csv <https://www.cdc.gov/nchs/nvss/vsrr/covid19/excess_deaths.htm>
