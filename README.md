@@ -2,7 +2,7 @@
 
 - - -
 
-We analyzed pre-covid death data and 2020 death data within the US in order to analyse the effects of the COVID-19 pandemic towards the US.
+We analyzed pre-covid death data and 2020 death data within the US in order to analyze the effects of the COVID-19 pandemic towards the US.
 
 - - -  
 
