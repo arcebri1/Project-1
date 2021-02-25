@@ -1,4 +1,4 @@
-# COVID-19
+# Death rates pre-COVID-19 vs during COVID-19
 
 - - -
 
@@ -34,7 +34,7 @@ With the obtained data, we wanted to determine the most significant regional and
 
 * Within a week there is a sharp increase of covid infections within certain metro areas.
 
-Our slide presentation can be found [here](https://docs.google.com/presentation/d/1W4EHkhdDsLwVdZDl8mYDI-hYSzmFFvrPAelFsk19ZHo/edit#slide=id.g9c08e2ceec_1_2)
+**Our slide presentation can be found [here](https://docs.google.com/presentation/d/1W4EHkhdDsLwVdZDl8mYDI-hYSzmFFvrPAelFsk19ZHo/edit#slide=id.g9c08e2ceec_1_2)**
 
 
 - - -
@@ -43,12 +43,12 @@ Our multiple datasets were obtained from the [CDC](https://www.cdc.gov/)
 
 Contributors:
 
-Lorena Arce
+Lorena Arce arcebri1@gmail.com
 
-Michael
+[Michael McBride](https://github.com/mmcbride9598)
 
-Gunjan
+Gunjan Batth
 
-Bretton
+[Bretton Maybee](https://github.com/brettonmaybee)
 
-Cindy
+Cindy Ngo
